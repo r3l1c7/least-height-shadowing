@@ -123,9 +123,8 @@ If you use this in research, please cite:
 ```bibtex
 @software{least_height_shadowing,
   title={Least-Height Shadowing: Controlling Height Explosion in Arithmetic Dynamics},
-  author={YOUR NAME},
   year={2025},
-  url={https://github.com/YOUR_USERNAME/least-height-shadowing}
+  url={https://github.com/r3l1c7/least-height-shadowing}
 }
 ```
 

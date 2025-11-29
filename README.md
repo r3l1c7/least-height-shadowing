@@ -21,6 +21,8 @@ Step 15: incomprehensible            (58,000+ digits)
 x_{n+1} = argmin_{z ∈ ℚ} [ ||f(xₙ) - z||² + λ·exp(β·h(z)) ]
 ```
 
+![Height Screenshot](height_comparison.png)
+
 Where:
 - `h(z)` is the logarithmic height of rational `z = p/q` (roughly log of max digit count)
 - `λ, β` are tunable "arithmetic friction" parameters
